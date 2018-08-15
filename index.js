@@ -1,6 +1,7 @@
 /**
  * 图片预览组件
  * created by xfz
+ * time: 20180815
  */
 
 import React from 'react';
